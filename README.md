@@ -132,14 +132,7 @@ Install with pip:
 
 $ pip install -r requirements.txt
 
-<a name="credits"></a>
-## 6. Credits
-This app has been developed by the following students as part of Lincoln University's COMP639 course:
-*	Alison Heath (Student ID: 1151854)
-*	Vicky Kang (Student ID: 1155049)
-*	Shan Lu (Student ID: 1149887)
-*	Claire Zhai (Student ID: 1155237)
-*	Zhiyi Zhu (Student ID: 1152455)
+
 
 Images used in this project were sourced from [Unsplash](https://www.unsplash.com).
 
