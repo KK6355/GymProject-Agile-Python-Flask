@@ -1,4 +1,6 @@
 # Lincoln Fitness: Club Management System
+![home](https://github.com/KK6355/GymProject-Agile-Python-Flask/assets/93057655/16bd23bc-a604-4548-b94a-bb4f23f71c13)
+
 This project delivers a Flask web app for Lincoln Fitness, a gym with approximately 1,000 members and 10 trainers. The app will assist gym staff with their daily activities and allows members to interact with Lincoln Fitness through a convenient interface. 
 
 __About the gym's operations__
